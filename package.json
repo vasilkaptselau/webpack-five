@@ -1,0 +1,11 @@
+{
+  "name": "webpack_5",
+  "version": "1.0.1",
+  "description": "webpack5 and Reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
